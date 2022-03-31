@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Divya Bairwa
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning full-stack web-develping.
-- 📫 You reach me at facebook,linked in and instragram;
+### Hi there
 
-<!---
-DivyaBairwa/DivyaBairwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Divya Bairwa, and I am learning web developmen.I enjoy learning a lot.And I love to explore myself in different fields.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
