@@ -1,4 +1,4 @@
- <img align="cover" src="https://media3.giphy.com/media/3o72F8HbKcxh60v3Ne/source.gif"> 
+ <img align="center" src="https://media3.giphy.com/media/3o72F8HbKcxh60v3Ne/source.gif"> 
 <h1 color="red" align="center"> Hi 👋, I'm Divya Bairwa</h1>
 <h3 align="center">Learning full Stack Well Development.</h3>
 
