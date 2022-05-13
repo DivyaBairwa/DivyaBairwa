@@ -1,5 +1,5 @@
-<!-- <img src="https://th.bing.com/th/id/OIP.Aim-sMtBSL8sIhLkIZ8TlgHaEK?pid=ImgDet&w=480&h=270&rs=1"> -->
-<h1 align="center"> <img src="https://media.giphy.com/media/l0O9y5CEjag6JpKZW/giphy.gif">Hi 👋, I'm Divya Bairwa</h1>
+ <img  height="100" width="100" src="https://th.bing.com/th/id/R.d7254e416786f83b2d03434983596c7d?rik=KppVHVGdW7pVGA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fcoding-gif-8.gif&ehk=NTerO%2fCfb%2bk2XYMpnDOwz0GUkYx0eiNWuHjZUbYzNuo%3d&risl=&pid=ImgRaw&r=0"> 
+<h1 align="center"> Hi 👋, I'm Divya Bairwa</h1>
 <h3 align="center">Learning full Stack Well Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabairwa&label=Profile%20views&color=0e75b6&style=flat" alt="divyabairwa" /> </p>
