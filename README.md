@@ -1,6 +1,7 @@
- <img align="center" src="https://media3.giphy.com/media/3o72F8HbKcxh60v3Ne/source.gif"> 
+ <img align="center" src="https://media.giphy.com/media/YlY5oyV9VxOJi53Ynq/giphy.gif"> 
 <h1 color="red" align="center"> Hi 👋, I'm Divya Bairwa</h1>
 <h3 align="center">Learning full Stack Well Development.</h3>
+<!-- https://i.pinimg.com/originals/5c/8a/6a/5c8a6a2ef385631560c6ba91159bd146.gif -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabairwa&label=Profile%20views&color=0e75b6&style=flat" alt="divyabairwa" /> </p>
 
