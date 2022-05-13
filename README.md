@@ -1,4 +1,4 @@
-<h1 style="color:green"align="center">Hi 👋, I'm Divya Bairwa</h1>
+<h1 style="color:green"; align="center">Hi 👋, I'm Divya Bairwa</h1>
 <h3 align="center">Learning full Stack Well Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabairwa&label=Profile%20views&color=0e75b6&style=flat" alt="divyabairwa" /> </p>
