@@ -1,4 +1,4 @@
- <img align="center" width="100%" src="https://media.giphy.com/media/YlY5oyV9VxOJi53Ynq/giphy.gif"> 
+ <img align="center" width="100%" src="https://th.bing.com/th/id/R.36272dbff77091e207978f78035c7f24?rik=deCpi0q7Bdud2w&riu=http%3a%2f%2fi6.glitter-graphics.org%2fpub%2f2810%2f2810026wftln79lip.gif&ehk=UIpybS7NIZhQvuSr6gudUfy9d3hIxP%2beGujsnFO8hl4%3d&risl=&pid=ImgRaw&r=0"> 
 <h1 color="red" align="center"> Hi 👋, I'm Divya Bairwa</h1>
 <h3 align="center">Learning full Stack Well Development.</h3>
 <!-- https://i.pinimg.com/originals/5c/8a/6a/5c8a6a2ef385631560c6ba91159bd146.gif -->
