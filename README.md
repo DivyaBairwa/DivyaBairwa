@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **talktive**
 
+- ![ClipWindowsGIF](https://user-images.githubusercontent.com/98870450/171902234-12103232-78b5-4116-b205-ba67f31f5fed.gif)
+🌻 Portfolio **https://divyabairwa.github.io/DivyaBairwaPortfolio/index.html**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/divya-bairwa-a61503220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya bairwa" height="30" width="40" /></a>
