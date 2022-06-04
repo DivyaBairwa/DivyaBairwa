@@ -21,8 +21,7 @@
 
 - ⚡ Fun fact **talktive**
 
-- ![ClipWindowsGIF](https://user-images.githubusercontent.com/98870450/171902234-12103232-78b5-4116-b205-ba67f31f5fed.gif)
-🌻 Portfolio **https://divyabairwa.github.io/DivyaBairwaPortfolio/index.html**
+- 🌻 Portfolio **https://divyabairwa.github.io/DivyaBairwaPortfolio/index.html**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
