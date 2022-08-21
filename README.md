@@ -3,8 +3,6 @@
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-When I am not coding, you'll find me at my desk sketching stuff. Find out more about me & feel free to connect with me here:
-
 <p align="center">
 	<a href="https://www.linkedin.com/in/divya-bairwa-a61503220/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -53,3 +51,17 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyaBairwa&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaBairwa&hide_border=true&theme=radical" />
+</p>
+
+
+## 🔝 Most used languages
+
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaBairwa&layout=compact&hide_border=true&theme=radical" />
+
+---
