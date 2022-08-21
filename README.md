@@ -53,14 +53,3 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📈 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnshumaanBaaghi&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshumaanBaaghi&hide_border=true&theme=radical" />
-</p>
-
-
-## 🔝 Most used languages
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumaanBaaghi&layout=compact&hide_border=true&theme=radical" />
