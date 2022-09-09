@@ -1,4 +1,3 @@
- <img align="center" Height="150" width="100%" src="https://th.bing.com/th/id/R.36272dbff77091e207978f78035c7f24?rik=deCpi0q7Bdud2w&riu=http%3a%2f%2fi6.glitter-graphics.org%2fpub%2f2810%2f2810026wftln79lip.gif&ehk=UIpybS7NIZhQvuSr6gudUfy9d3hIxP%2beGujsnFO8hl4%3d&risl=&pid=ImgRaw&r=0"> 
 <h1 color="red" align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Divya Bairwa</h1>
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
