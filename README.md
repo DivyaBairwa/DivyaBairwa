@@ -63,3 +63,38 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaBairwa&layout=compact&hide_border=true&theme=radical" />
 
 ---
+
+## 📕 Pinned Repositories
+
+<p align="center">
+<a href="https://github.com/gyanimishra/tmetric-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyanimishra&repo=tmetric-clone&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/AnshumaanBaaghi/InternTheory-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=InternTheory-Clone&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/AnshumaanBaaghi/HindustanTimes_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=HindustanTimes_Clone&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/AnshumaanBaaghi/Youtube_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Youtube_Clone&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/AnshumaanBaaghi/Sudoku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Sudoku&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/AnshumaanBaaghi/Unit-2_Nykaa_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Unit-2_Nykaa_Project&hide_border=true&theme=radical" />
+</a>
+
+</p>
+
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
